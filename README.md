@@ -1,12 +1,15 @@
 # Planet-bot
 
 AI bot for game based on Google AI Challenge
+
 http://planetwars.aichallenge.org/specification.php
 
 
 ## Usage
 
-Run like other java programms
+You need Leiningen to build project.
+
+Then run bot like other java programms.
 
 ## License
 
